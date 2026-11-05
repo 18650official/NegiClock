@@ -1,0 +1,18 @@
+# Keil 编译输出
+C51/Objects/
+C51/Listings/
+C51/*.uvgui.*
+*.bak
+*.obj
+*.lst
+*.m51
+*.lnp
+
+# Python
+__pycache__/
+*.pyc
+*.spec
+
+# 系统文件
+Thumbs.db
+desktop.ini
